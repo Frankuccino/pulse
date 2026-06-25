@@ -13,3 +13,20 @@ Journal entry for 2026-04-29
 Journal entry for 2026-04-30
 Journal entry for 2026-05-03
 Journal entry for 2026-05-09
+
+## 2026-06-25
+
+Reviewed caching fundamentals:
+- Cache-aside pattern
+- Read-through vs write-through caching
+- Cache invalidation challenges
+- Redis use cases and tradeoffs
+- TTL and cache expiration strategies
+
+Studied background jobs and task queues:
+- Offloading long-running work from request/response cycle
+- Job producers and workers
+- Retry mechanisms and failure handling
+- Common use cases: emails, notifications, image processing
+- Queue systems and asynchronous architecture patterns
+
