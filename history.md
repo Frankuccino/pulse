@@ -32,3 +32,4 @@ Studied background jobs and task queues:
 
 Journal entry for 2026-06-27: Learning Go starting from A Tour of Go
 Journal entry for 2026-06-28: Learning Go starting from A Tour of Go
+Journal entry for 2026-07-07: Went through the backend from first principles, specifically the graceful shutdown episode. Felt drained so I took long nap, but still made progress.
