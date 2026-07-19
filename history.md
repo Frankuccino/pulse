@@ -34,3 +34,4 @@ Journal entry for 2026-06-27: Learning Go starting from A Tour of Go
 Journal entry for 2026-06-28: Learning Go starting from A Tour of Go
 Journal entry for 2026-07-07: Went through the backend from first principles, specifically the graceful shutdown episode. Felt drained so I took long nap, but still made progress.
 2026-07-07: Verified understanding of graceful shutdown.
+Journal entry for 2026-07-19: Offline std library go through like the encoding Marshal and Unmarshal methods in Go
