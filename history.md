@@ -36,3 +36,7 @@ Journal entry for 2026-07-07: Went through the backend from first principles, sp
 2026-07-07: Verified understanding of graceful shutdown.
 Journal entry for 2026-07-19: Offline std library go through like the encoding Marshal and Unmarshal methods in Go
 Journal entry for 2026-07-20: Internet connection recovered
+
+## Journal entry for 2026-07-29
+* Watched Andrej Karpathy's Neural Networks: Zero to Hero (The spelled-out intro to neural networks and backpropagation: building micrograd).
+* Read the introduction to Engineering AI Systems: Architecture and DevOps Essentials.
