@@ -40,3 +40,16 @@ Journal entry for 2026-07-20: Internet connection recovered
 ## Journal entry for 2026-07-29
 * Watched Andrej Karpathy's Neural Networks: Zero to Hero (The spelled-out intro to neural networks and backpropagation: building micrograd).
 * Read the introduction to Engineering AI Systems: Architecture and DevOps Essentials.
+JavaScript Runtime
+├── Call Stack / Execution Contexts       ✅
+├── Event Loop                            ✅
+├── Microtasks / Tasks                    ✅
+│
+├── Promises                              ✅
+├── async / await                         ✅
+│
+├── Sequential async operations           ✅
+├── Concurrent async operations           ✅
+├── Promise.all()                         ✅
+└── Promise.all() rejection behavior      ✅
+
